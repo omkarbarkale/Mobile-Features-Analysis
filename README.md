@@ -1,21 +1,12 @@
-Mobile Features Analysis
-
-Overview
-
-This project focuses on exploring mobile phone features and specifications using Power BI. The dashboard presents the data visually to make it easier to compare device characteristics and understand patterns in the dataset.
-
-Tools Used
-
-Power BI Desktop, DAX
-
-Project File
-
-MOBILE FEATURES ANALYSIIS.pbix
-
 Dashboard Preview
 
-Screenshots of the dashboard will be added here.
+1. Overview
 
-Author
+2. Camera Resolution Details
 
-Omkar Kishor Barkale
+3. Price Analysis
+
+4. Feature vs Price
+
+5. Matrix Visual
+
